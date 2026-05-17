@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alchemical-3D/Brand/main/assets/svg/Alchemical-3D-Badge-Gradient-PRIMARY-Alchemical-3D-Logo-Gradient-PRIMARY-Transparent-Background.svg" alt="Alchemical-3D Banner" width="75%" />
-  
-  <br/>
-
-  <h1>Welcome to Alchemical-3D 🧪🖨️</h1>
+  <h1>Welcome to Alchemical-3D </h1>
   
   <i><b>"Transmuting ideas into reality, layer by layer."</b></i>
 
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/Alchemical-3D/Brand/main/assets/svg/Alchemical-3D-Badge-Gradient-PRIMARY-Alchemical-3D-Logo-Gradient-PRIMARY-Transparent-Background.svg" alt="Alchemical-3D Banner" width="60%" />
+  
   <br/><br/>
 
   <p>We are an open-source hardware and software development organization dedicated to pushing the boundaries of consumer 3D printing. Our focus is on engineering advanced, accessible upgrades that improve print quality, reliability, and functionality.</p>
