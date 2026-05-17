@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alchemical-3D/Brand/main/assets/svg/Alchemical-3D-Logo-Gradient-PRIMARY-Transparent-Background.svg" alt="Alchemical-3D Banner" width="75%" />
+  <img src="https://raw.githubusercontent.com/Alchemical-3D/Brand/main/assets/svg/Alchemical-3D-Badge-Gradient-PRIMARY-Alchemical-3D-Logo-Gradient-PRIMARY-Transparent-Background.svg" alt="Alchemical-3D Banner" width="75%" />
   
   <br/>
 
