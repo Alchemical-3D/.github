@@ -4,6 +4,7 @@
   <i>"Transmuting ideas into reality, layer by layer."</i>
 </div>
 
+
 We are an open-source hardware and software development organization dedicated to pushing the boundaries of consumer 3D printing. Our focus is on engineering advanced, accessible upgrades that improve print quality, reliability, and functionality.
 
 <div align="center">
