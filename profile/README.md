@@ -1,18 +1,18 @@
-# **Welcome to Alchemical-3D** 🧪 
-**Transmuting ideas into reality, layer by layer.**
-
----
----
-
-We are an open-source hardware and software development organization dedicated to pushing the boundaries of consumer 3D printing. Our focus is on engineering advanced, accessible upgrades that improve print quality, reliability, and functionality.
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Alchemical-3D/Brand/main/assets/svg/Alchemical-3D-Logo-Gradient-PRIMARY-Transparent-Background.svg" alt="Alchemical-3D Banner" width="75%" />
+  
+  <br/>
+
+  <h1>Welcome to Alchemical-3D 🧪🖨️</h1>
+  
+  <i><b>"Transmuting ideas into reality, layer by layer."</b></i>
+
+  <br/><br/>
+
+  <p>We are an open-source hardware and software development organization dedicated to pushing the boundaries of consumer 3D printing. Our focus is on engineering advanced, accessible upgrades that improve print quality, reliability, and functionality.</p>
 </div>
 
 ---
-
-## 🌟 Our Projects
 
 The Alchemical-3D ecosystem consists of several active projects designed to tackle distinct challenges in modern 3D printing:
 
@@ -39,7 +39,6 @@ A flexible, ultra-lightweight extruder designed to ride the X-gantry (or elsewhe
 ---
 
 ## 🤝 Support the Development
-
 Alchemical-3D is driven by passion and the open-source community. If you use our projects or want to see more advanced hardware developments, consider supporting us!
 
 * **[Support us on Ko-fi](https://ko-fi.com/alchemical3d)** ☕
@@ -49,7 +48,6 @@ Alchemical-3D is driven by passion and the open-source community. If you use our
 ---
 
 ## 📜 License & Contribution
-
 We believe in open-source collaboration. Most of our hardware designs are released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license, ensuring the community can learn, modify, and build upon our work.
 
 Contributions, bug reports, and feature requests are always welcome across all our repositories!
