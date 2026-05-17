@@ -1,4 +1,4 @@
-# Welcome to Alchemical-3D 🧪🖨️
+# **Welcome to Alchemical-3D 🧪 Transmuting ideas into reality, layer by layer.**
 
 ---
 
