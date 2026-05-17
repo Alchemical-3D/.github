@@ -1,4 +1,3 @@
-# .github
 # Welcome to Alchemical-3D 🧪🖨️
 
 
